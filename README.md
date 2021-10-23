@@ -100,9 +100,7 @@
 - 30天填自制操作系统   [百度云下载链接](https://pan.baidu.com/s/1V78fbnrjKQpe9d2nHndpTw)  密码:z0zr
 - 操作系统之哲学原理     [百度云下载链接](https://pan.baidu.com/s/1KBVu0AkcOKWf3UEJ87aBrg)  密码:lfkd
 - 程序是怎样跑起来的     [百度云下载链接](https://pan.baidu.com/s/1fLCeujbZ9w5pIv1uVtIQVQ)  密码:i9go
-- 现代操作系统     [百度云下载链接](https://pan.baidu.com/s/1fHDAv6_An9dTHkPxFPktFw)  密码:6gg7
-
-
+- 操作系统设计与实现     [百度云下载链接](https://pan.baidu.com/s/13fFS8939X9fdVnMIa27QBg)  密码:nut5
 
 # python系列
 - python操作word,excel,pdf     [百度云下载链接](https://pan.baidu.com/s/10KTz_CPln20SK1z3h9nxng)  密码:7w6s
